@@ -1,6 +1,0 @@
-﻿namespace ShoeTesting
-{
-    class clsOrder
-    {
-    }
-}
